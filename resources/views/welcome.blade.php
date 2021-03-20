@@ -22,6 +22,7 @@
     </head>
     <body class="antialiased">
     <livewire:counter>
+    <livewire:dynamicname>
     <livewire:scripts />
     </body>
 </html>
