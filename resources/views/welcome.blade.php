@@ -21,8 +21,10 @@
         </style>
     </head>
     <body class="antialiased">
-    <livewire:counter>
-    <livewire:dynamicname>
-    <livewire:scripts />
+    <div style="text-align: center">
+        <livewire:counter>
+        <livewire:dynamicname>
+        <livewire:scripts />
+        </div>
     </body>
 </html>
